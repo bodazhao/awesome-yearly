@@ -9,6 +9,7 @@ This list is a collection of awesome end-of-year survey/reports/resources, mainl
 - [The State of CSS](https://2020.stateofcss.com/en-US/)
 - [JavaScript Rising Stars, Best of JavaScript](https://risingstars.js.org/2020/en)
 - [End-of-Year Thoughts, CSS Tricks](https://css-tricks.com/category/2020-end-of-year-thoughts/)
+- [Frontend Masters Survey](/frontend-masters-2020-survey.png)
 
 - [The State of the Octoverse, Github](https://octoverse.github.com/)
 - [Developer Survey, Stack Overflow](https://insights.stackoverflow.com/survey/2020)
