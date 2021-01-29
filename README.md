@@ -19,6 +19,6 @@ This list is a collection of awesome end-of-year survey/reports/resources, mainl
 
 - [The Top 100+ Developer Tools, StackShare](https://stackshare.io/posts/top-developer-tools-2020)
 
-**Lists of end-of-year list:**
+### Lists of end-of-year list
 
 - [Roundup of Web Research, CSS Tricks](https://css-tricks.com/2020-roundup-of-web-research)
