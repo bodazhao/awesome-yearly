@@ -17,6 +17,8 @@ This list is a collection of awesome end-of-year survey/reports/resources, mainl
 - [Web Almanac, HTTP Archive](https://almanac.httparchive.org/en/2020/)
 - [Web Developer Needs Assessment, MDN](https://insights.developer.mozilla.org/reports/mdn-web-developer-needs-assessment-2020.html)
 
+- [The Top 100+ Developer Tools, StackShare](https://stackshare.io/posts/top-developer-tools-2020)
+
 **Lists of end-of-year list:**
 
 - [Roundup of Web Research, CSS Tricks](https://css-tricks.com/2020-roundup-of-web-research)
